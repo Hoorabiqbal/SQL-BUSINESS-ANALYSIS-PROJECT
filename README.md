@@ -1,4 +1,3 @@
-# SQL-BUSINESS-ANALYSIS-PROJECT
 # Sales Business Analysis using SQL
 
 ## 📌 Project Overview
